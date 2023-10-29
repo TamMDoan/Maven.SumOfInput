@@ -17,6 +17,8 @@ public class Main {
     
     // do this one and the lab is complete. really.
     // return the sum of 0 to n... if n == 3, the result should be 6
+
+    // ...
     static int sumOfNumbers(int n) {
 
         int sum = 0;
